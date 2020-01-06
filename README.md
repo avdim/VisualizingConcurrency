@@ -1,3 +1,5 @@
+Презентация: https://youtu.be/57ItfC2sfgw?t=1754
+
 # Kotlin Fan In / Fan Out Animated
 
 This is a project demonstrating what Fan In and Fan Out design patterns look in practice.  <br />
